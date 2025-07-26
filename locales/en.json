@@ -27,5 +27,8 @@
 	"minutes": "min",
 	"soundOn": "Sound",
 	"musicOn": "Music",
+	"leave": "Leave",
+	"stay": "Stay",
+	"leavePrompt": "Leave Game?",
 	"": ""
 }
